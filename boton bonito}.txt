@@ -1,0 +1,23 @@
+        <a href="" class="boton_1">Ingresar</a>
+
+
+ <style type="text/css">
+            .boton_1{
+              text-decoration: none;
+              padding: 3px;
+              padding-left: 10px;
+              padding-right: 10px;
+              font-family: helvetica;
+              font-weight: 300;
+              font-size: 25px;
+              font-style: italic;
+              color: #000000;
+              background-color: #ffffff;
+              border-radius: 15px;
+              
+            }
+            .boton_1:hover{
+              opacity: 0.6;
+              text-decoration: none;
+            }
+          </style>
